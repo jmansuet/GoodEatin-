@@ -3,4 +3,4 @@
 
 This is a collaboration with Brennan Windsor (writing) and Michelle Xu (art)
 
-These files are for PC and will not work for Mac (I'm sorry). I'll add a folder for Mac files eventually.
+These files are for PC and will not work for Mac (I'm sorry). I'll add a folder for Mac files eventually. Please download all the files in this repository to play the game.
